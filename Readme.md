@@ -1,0 +1,1 @@
+This is a simpe Quiz System in Typescript.
